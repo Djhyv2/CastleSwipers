@@ -1,2 +1,1 @@
-# CastleSwipers
-Castle Raiding Merchant Platformer Game
+CastleSwipers was created during the 42 hour 2018 Columbia Game Jam 4 located at REDI Innovations on October 19-21. Castle Swipers was created as a group collaborative with programmer Dustin Hengel, designer Caleb McElmurry, and artist Max Hantke. It was built using the Unity Engine.
